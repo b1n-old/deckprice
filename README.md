@@ -6,7 +6,8 @@ Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 
 {% include_code Treefolk Thematic Deck Result examples/treefolk_result.txt}
 
-``` txt Text format for Myr Thematic Deck
+Text format for Myr Thematic Deck:
+```txt
 4 Palladium Myr
 2 Myr Battlesphere
 4 Myr Enforcer
@@ -27,7 +28,8 @@ Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 2 Ancient Den
 ```
 
-``` txt Result for Myr Thematic Deck
+Result:
+```txt
 2 x Myr Battlesphere  = 2 x 0.47 = 0.94
 4 x Silver Myr        = 4 x 0.25 = 1.00
 2 x Voltaic Key       = 2 x 0.55 = 1.10
@@ -49,7 +51,8 @@ Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 TOTAL: 60 cards : 46.48
 ```
 
-``` xml Cockatrice format for Treefolk Thematic Deck
+Cockatrice format for Treefolk Thematic Deck:
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname></deckname>
@@ -74,7 +77,8 @@ TOTAL: 60 cards : 46.48
 </cockatrice_deck>
 ```
 
-``` txt Output for Treefolk Thematic Deck
+Result:
+```txt
 2  x Naturalize         = 2  x 0.12 =  0.24
 2  x Hurricane          = 2  x 0.12 =  0.24
 2  x Cloudcrown Oak     = 2  x 0.25 =  0.50
