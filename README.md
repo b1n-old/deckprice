@@ -4,10 +4,8 @@ Uses [Black Lotus Project](http://blacklotusproject.com/) API to get prices.
 
 Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 
-{% include_code Treefolk Thematic Deck Result examples/treefolk_result.txt}
-
 Text format for Myr Thematic Deck:
-```txt
+```
 4 Palladium Myr
 2 Myr Battlesphere
 4 Myr Enforcer
@@ -29,7 +27,7 @@ Text format for Myr Thematic Deck:
 ```
 
 Result:
-```txt
+```
 2 x Myr Battlesphere  = 2 x 0.47 = 0.94
 4 x Silver Myr        = 4 x 0.25 = 1.00
 2 x Voltaic Key       = 2 x 0.55 = 1.10
