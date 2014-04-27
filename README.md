@@ -2,7 +2,7 @@ Calculates [Magic The Gathering](http://www.wizards.com/magic/summoner/) deck pr
 
 Uses [Black Lotus Project](http://blacklotusproject.com/) API to get prices.
 
-Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
+Can read plain text and  [Cockatrice](http://cockatrice.de) deck format.
 
 **Usage**:
 * php price.php examples/myr.txt txt
