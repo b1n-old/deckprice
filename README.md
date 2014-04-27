@@ -6,6 +6,7 @@ Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 
 **Usage**:
 * php price.php examples/myr.txt txt
+* php price.php examples/treefolk.cod
 
 Examples:
 Text format for Myr Thematic Deck:
