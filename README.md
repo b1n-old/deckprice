@@ -1,9 +1,13 @@
-Calculates Magitc The Gatheric deck price.
+Calculates [Magic The Gathering](http://www.wizards.com/magic/summoner/) deck price.
 
 Uses [Black Lotus Project](http://blacklotusproject.com/) API to get prices.
 
 Can read plain text and  [Clockatrice](http://cockatrice.de) deck format.
 
+**Usage**:
+* php price.php examples/myr.txt txt
+
+Examples:
 Text format for Myr Thematic Deck:
 ```
 4 Palladium Myr
@@ -76,7 +80,7 @@ Cockatrice format for Treefolk Thematic Deck:
 ```
 
 Result:
-```txt
+```
 2  x Naturalize         = 2  x 0.12 =  0.24
 2  x Hurricane          = 2  x 0.12 =  0.24
 2  x Cloudcrown Oak     = 2  x 0.25 =  0.50
